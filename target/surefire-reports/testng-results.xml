@@ -2,19 +2,19 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-02T12:48:53 NZDT" name="Suite" finished-at="2021-04-02T12:48:59 NZDT" duration-ms="6426">
+  <suite started-at="2022-02-20T19:42:00 AZT" name="Suite" finished-at="2022-02-20T19:42:09 AZT" duration-ms="9152">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7c214cc0]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6a4f1a55]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2021-04-02T12:48:53 NZDT" name="Complete test run" finished-at="2021-04-02T12:48:59 NZDT" duration-ms="6426">
+    <test started-at="2022-02-20T19:42:00 AZT" name="Complete test run" finished-at="2022-02-20T19:42:09 AZT" duration-ms="9152">
       <class name="runner.TestRunner">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:runner.TestRunner@7c214cc0]" started-at="2021-04-02T12:48:53 NZDT" name="setUpClass" finished-at="2021-04-02T12:48:53 NZDT" duration-ms="93" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:runner.TestRunner@6a4f1a55]" started-at="2022-02-20T19:42:00 AZT" name="setUpClass" finished-at="2022-02-20T19:42:01 AZT" duration-ms="438" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7c214cc0]" started-at="2021-04-02T12:48:53 NZDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-04-02T12:48:57 NZDT" duration-ms="3560" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6a4f1a55]" started-at="2022-02-20T19:42:01 AZT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-02-20T19:42:05 AZT" duration-ms="4083" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@7c214cc0]" started-at="2021-04-02T12:48:57 NZDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-04-02T12:48:59 NZDT" duration-ms="2627" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6a4f1a55]" started-at="2022-02-20T19:42:05 AZT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-02-20T19:42:08 AZT" duration-ms="2672" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -46,7 +46,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@7c214cc0]" started-at="2021-04-02T12:48:59 NZDT" name="tearDownClass" finished-at="2021-04-02T12:48:59 NZDT" duration-ms="25" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@6a4f1a55]" started-at="2022-02-20T19:42:08 AZT" name="tearDownClass" finished-at="2022-02-20T19:42:09 AZT" duration-ms="1691" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
