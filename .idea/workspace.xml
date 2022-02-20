@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f48c7d8d-1416-490f-bf74-4a49f1e42449" name="Default" comment="sdk missing fixed" />
+    <list default="true" id="f48c7d8d-1416-490f-bf74-4a49f1e42449" name="Default" comment="some plugin">
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -301,6 +303,7 @@
       <updated>1476371778890</updated>
       <workItem from="1645370032827" duration="768000" />
       <workItem from="1645370854162" duration="461000" />
+      <workItem from="1645371384674" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="solved plugin problem">
       <created>1645370791452</created>
@@ -316,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645371310671</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some plugin">
+      <created>1645371495116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645371495116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -353,7 +363,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solved plugin problem" />
     <MESSAGE value="sdk missing fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdk missing fixed" />
+    <MESSAGE value="some plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="some plugin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
