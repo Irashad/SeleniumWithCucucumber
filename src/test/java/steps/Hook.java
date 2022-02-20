@@ -32,10 +32,8 @@ public class Hook extends BaseUtil{
     @Before
     public void InitializeTest(Scenario scenario) {
         base.scenarioDef = base.features.createNode(scenario.getName());
-        WebDriverManager.chromedriver().setup();
-        ChromeOptions chromeOptions = new ChromeOptions();
-        chromeOptions.addArguments("--headless");
-        base.Driver = new ChromeDriver(chromeOptions);
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\resha\\gitpul\\SeleniumWithCucucumber\\driver\\chromedriver97469271.exe");
+        base.Driver = new ChromeDriver();
     }
 
 

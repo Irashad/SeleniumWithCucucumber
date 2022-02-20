@@ -4,32 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f48c7d8d-1416-490f-bf74-4a49f1e42449" name="Default" comment="lombok dependency">
+    <list default="true" id="f48c7d8d-1416-490f-bf74-4a49f1e42449" name="Default" comment="chromdriver added">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ea/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/BaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/Hook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Complete test run.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Complete test run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Complete test run.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Complete test run.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-runner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-runner.TestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/groups.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,22 +52,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/driver" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\resha\gitpul\SeleniumWithCucucumber\driver" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Karthik\IdeaProjects\CucumberBasics\src\test\java" />
       <recent name="C:\Users\Karthik\IdeaProjects\CucumberBasics\src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="TestNG./Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/testng.xml (1)">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -234,7 +223,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRunner.runScenario" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CucumberBasics" />
       <extension name="coverage">
         <pattern>
@@ -242,13 +231,10 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng.xml" />
       <option name="PACKAGE_NAME" value="runner" />
       <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
-      <option name="METHOD_NAME" value="runScenario" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" value="0" />
       <option name="WORKING_DIRECTORY" />
       <properties />
       <listeners />
@@ -299,19 +285,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Cucumber Java.Scenario: Login with correct username and password" />
       <item itemvalue="TestNG./Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/testng.xml" />
-      <item itemvalue="TestNG.TestRunner.runScenario" />
       <item itemvalue="TestNG./Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/testng.xml (1)" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="TestNG.TestRunner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/testng.xml (1)" />
+        <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Login with correct username and password" />
         <item itemvalue="Application.Main" />
         <item itemvalue="TestNG./Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/testng.xml" />
-        <item itemvalue="TestNG./Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/testng.xml (1)" />
-        <item itemvalue="Cucumber Java.Scenario: Login with correct username and password" />
-        <item itemvalue="TestNG.TestRunner.runScenario" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +316,8 @@
       <workItem from="1645370854162" duration="461000" />
       <workItem from="1645371384674" duration="162000" />
       <workItem from="1645371623448" duration="77000" />
-      <workItem from="1645371818200" duration="670000" />
+      <workItem from="1645371818200" duration="1185000" />
+      <workItem from="1645373028924" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="solved plugin problem">
       <created>1645370791452</created>
@@ -360,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645371690579</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chromdriver added">
+      <created>1645372633105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645372633105</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -399,23 +393,8 @@
     <MESSAGE value="sdk missing fixed" />
     <MESSAGE value="some plugin" />
     <MESSAGE value="lombok dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="lombok dependency" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/steps/Hook.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/steps/LoginStep.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="chromdriver added" />
+    <option name="LAST_COMMIT_MESSAGE" value="chromdriver added" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
